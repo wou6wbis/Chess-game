@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ech" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ech" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="include" />
+					<Add directory="../ech" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ech" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+					<Add directory="../ech" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Algorithme.cpp" />
+		<Unit filename="Algorithme.h" />
+		<Unit filename="Case.cpp" />
+		<Unit filename="Case.h" />
+		<Unit filename="Cavalier.cpp" />
+		<Unit filename="Cavalier.h" />
+		<Unit filename="Deplacement.cpp" />
+		<Unit filename="Deplacement.h" />
+		<Unit filename="Echiquier.cpp" />
+		<Unit filename="Echiquier.h" />
+		<Unit filename="Facile.cpp" />
+		<Unit filename="Facile.h" />
+		<Unit filename="Fou.cpp" />
+		<Unit filename="Fou.h" />
+		<Unit filename="Historique.cpp" />
+		<Unit filename="Historique.h" />
+		<Unit filename="Homme.cpp" />
+		<Unit filename="Homme.h" />
+		<Unit filename="Joueur.cpp" />
+		<Unit filename="Joueur.h" />
+		<Unit filename="Machine.cpp" />
+		<Unit filename="Machine.h" />
+		<Unit filename="Machine_bete.cpp" />
+		<Unit filename="Machine_bete.h" />
+		<Unit filename="Machine_intel.cpp" />
+		<Unit filename="Machine_intel.h" />
+		<Unit filename="Machine_intelpp.cpp" />
+		<Unit filename="Machine_intelpp.h" />
+		<Unit filename="Moyen.cpp" />
+		<Unit filename="Moyen.h" />
+		<Unit filename="Partie.cpp" />
+		<Unit filename="Partie.h" />
+		<Unit filename="Piece.cpp" />
+		<Unit filename="Piece.h" />
+		<Unit filename="Pion.cpp" />
+		<Unit filename="Pion.h" />
+		<Unit filename="Position.cpp" />
+		<Unit filename="Position.h" />
+		<Unit filename="Reine.cpp" />
+		<Unit filename="Reine.h" />
+		<Unit filename="Roi.cpp" />
+		<Unit filename="Roi.h" />
+		<Unit filename="Tour.cpp" />
+		<Unit filename="Tour.h" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

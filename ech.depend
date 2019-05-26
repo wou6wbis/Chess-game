@@ -1,0 +1,486 @@
+# depslib dependency file v1.0
+1493155762 source:c:\users\khayri\downloads\compressed\ech\ech\algorithme.cpp
+
+1493728106 source:c:\users\khayri\downloads\compressed\ech\ech\case.cpp
+	"Case.h"
+
+1493728101 c:\users\khayri\downloads\compressed\ech\ech\case.h
+	"Position.h"
+	"Piece.h"
+
+1493721531 c:\users\khayri\downloads\compressed\ech\ech\position.h
+	<iostream>
+
+1493725562 c:\users\khayri\downloads\compressed\ech\ech\piece.h
+	"Position.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1493731256 source:c:\users\khayri\downloads\compressed\ech\ech\cavalier.cpp
+	"Cavalier.h"
+	"Piece.h"
+
+1493722845 c:\users\khayri\downloads\compressed\ech\ech\cavalier.h
+	<iostream>
+	"Piece.h"
+
+1493721392 source:c:\users\khayri\downloads\compressed\ech\ech\deplacement.cpp
+	"Deplacement.h"
+
+1493721392 c:\users\khayri\downloads\compressed\ech\ech\deplacement.h
+	<iostream>
+	<string>
+	"Position.h"
+
+1493156759 source:c:\users\khayri\downloads\compressed\ech\ech\facile.cpp
+	"Facile.h"
+
+1493411697 c:\users\khayri\downloads\compressed\ech\ech\facile.h
+	"Algorithme.h"
+
+1493156759 c:\users\khayri\downloads\compressed\ech\ech\algorithme.h
+
+1493731196 source:c:\users\khayri\downloads\compressed\ech\ech\fou.cpp
+	"Fou.h"
+
+1493722845 c:\users\khayri\downloads\compressed\ech\ech\fou.h
+	<iostream>
+	"Piece.h"
+
+1493154601 source:c:\users\khayri\downloads\compressed\ech\ech\historique.cpp
+	"Historique.h"
+
+1493154595 c:\users\khayri\downloads\compressed\ech\ech\historique.h
+	"Deplacement.h"
+
+1493704905 source:c:\users\khayri\downloads\compressed\ech\ech\homme.cpp
+	"Homme.h"
+
+1493704890 c:\users\khayri\downloads\compressed\ech\ech\homme.h
+	"Joueur.h"
+
+1493706241 c:\users\khayri\downloads\compressed\ech\ech\joueur.h
+	<iostream>
+
+1493706241 source:c:\users\khayri\downloads\compressed\ech\ech\joueur.cpp
+	"Joueur.h"
+
+1493706241 source:c:\users\khayri\downloads\compressed\ech\ech\machine.cpp
+	"Machine.h"
+
+1493706241 c:\users\khayri\downloads\compressed\ech\ech\machine.h
+	"Joueur.h"
+
+1493729652 source:c:\users\khayri\downloads\compressed\ech\ech\main.cpp
+	<iostream>
+	"Deplacement.h"
+	"Echiquier.h"
+	"Piece.h"
+	"Joueur.h"
+	"partie.h"
+	"Case.h"
+
+1493728963 c:\users\khayri\downloads\compressed\ech\ech\echiquier.h
+	"Case.h"
+	"Piece.h"
+	"Pion.h"
+	"Cavalier.h"
+	"Tour.h"
+	"Fou.h"
+	"Roi.h"
+	"Reine.h"
+	"Deplacement.h"
+	<windows.h>
+
+1493722845 c:\users\khayri\downloads\compressed\ech\ech\pion.h
+	<iostream>
+	"Piece.h"
+
+1493722845 c:\users\khayri\downloads\compressed\ech\ech\tour.h
+	<iostream>
+	"Piece.h"
+
+1493722845 c:\users\khayri\downloads\compressed\ech\ech\roi.h
+	<iostream>
+	"Piece.h"
+
+1493722845 c:\users\khayri\downloads\compressed\ech\ech\reine.h
+	<iostream>
+	"Piece.h"
+
+1493721733 c:\users\khayri\downloads\compressed\ech\ech\partie.h
+	"Joueur.h"
+	"Machine.h"
+	"Homme.h"
+	"Echiquier.h"
+	"Deplacement.h"
+	<windows.h>
+
+1493156759 source:c:\users\khayri\downloads\compressed\ech\ech\moyen.cpp
+	"Moyen.h"
+
+1493412271 c:\users\khayri\downloads\compressed\ech\ech\moyen.h
+	"Algorithme.h"
+
+1493723821 source:c:\users\khayri\downloads\compressed\ech\ech\partie.cpp
+	"Partie.h"
+
+1493668391 source:c:\users\khayri\downloads\compressed\ech\ech\piece.cpp
+	"Piece.h"
+
+1493731196 source:c:\users\khayri\downloads\compressed\ech\ech\pion.cpp
+	"Pion.h"
+
+1493721517 source:c:\users\khayri\downloads\compressed\ech\ech\position.cpp
+	"Position.h"
+
+1493731196 source:c:\users\khayri\downloads\compressed\ech\ech\reine.cpp
+	"Reine.h"
+
+1493731196 source:c:\users\khayri\downloads\compressed\ech\ech\roi.cpp
+	"Roi.h"
+
+1493731521 source:c:\users\khayri\downloads\compressed\ech\ech\tour.cpp
+	"Tour.h"
+
+1493731411 source:c:\users\khayri\downloads\compressed\ech\ech\echiquier.cpp
+	"Echiquier.h"
+
+1493126962 source:c:\users\yosra\desktop\ech\ech\ech\algorithme.cpp
+
+1493699306 source:c:\users\yosra\desktop\ech\ech\ech\case.cpp
+	"Case.h"
+
+1493699301 c:\users\yosra\desktop\ech\ech\ech\case.h
+	"Position.h"
+	"Piece.h"
+
+1493692731 c:\users\yosra\desktop\ech\ech\ech\position.h
+	<iostream>
+
+1493696762 c:\users\yosra\desktop\ech\ech\ech\piece.h
+	"Position.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1493702456 source:c:\users\yosra\desktop\ech\ech\ech\cavalier.cpp
+	"Cavalier.h"
+	"Piece.h"
+
+1493694045 c:\users\yosra\desktop\ech\ech\ech\cavalier.h
+	<iostream>
+	"Piece.h"
+
+1493692592 source:c:\users\yosra\desktop\ech\ech\ech\deplacement.cpp
+	"Deplacement.h"
+
+1493692592 c:\users\yosra\desktop\ech\ech\ech\deplacement.h
+	<iostream>
+	<string>
+	"Position.h"
+
+1493735686 source:c:\users\yosra\desktop\ech\ech\ech\echiquier.cpp
+	"Echiquier.h"
+
+1493735627 c:\users\yosra\desktop\ech\ech\ech\echiquier.h
+	"Case.h"
+	"Piece.h"
+	"Pion.h"
+	"Cavalier.h"
+	"Tour.h"
+	"Fou.h"
+	"Roi.h"
+	"Reine.h"
+	"Deplacement.h"
+	<windows.h>
+
+1493694045 c:\users\yosra\desktop\ech\ech\ech\pion.h
+	<iostream>
+	"Piece.h"
+
+1493694045 c:\users\yosra\desktop\ech\ech\ech\tour.h
+	<iostream>
+	"Piece.h"
+
+1493694045 c:\users\yosra\desktop\ech\ech\ech\fou.h
+	<iostream>
+	"Piece.h"
+
+1493694045 c:\users\yosra\desktop\ech\ech\ech\roi.h
+	<iostream>
+	"Piece.h"
+
+1493694045 c:\users\yosra\desktop\ech\ech\ech\reine.h
+	<iostream>
+	"Piece.h"
+
+1493127959 source:c:\users\yosra\desktop\ech\ech\ech\facile.cpp
+	"Facile.h"
+
+1493382897 c:\users\yosra\desktop\ech\ech\ech\facile.h
+	"Algorithme.h"
+
+1493732275 c:\users\yosra\desktop\ech\ech\ech\algorithme.h
+
+1493702396 source:c:\users\yosra\desktop\ech\ech\ech\fou.cpp
+	"Fou.h"
+
+1493125801 source:c:\users\yosra\desktop\ech\ech\ech\historique.cpp
+	"Historique.h"
+
+1493125795 c:\users\yosra\desktop\ech\ech\ech\historique.h
+	"Deplacement.h"
+
+1493737317 source:c:\users\yosra\desktop\ech\ech\ech\homme.cpp
+	"Homme.h"
+
+1493737306 c:\users\yosra\desktop\ech\ech\ech\homme.h
+	"Joueur.h"
+
+1493737149 c:\users\yosra\desktop\ech\ech\ech\joueur.h
+	"Deplacement.h"
+	"Echiquier.h"
+	<iostream>
+
+1493737189 source:c:\users\yosra\desktop\ech\ech\ech\joueur.cpp
+	"Joueur.h"
+
+1493737026 source:c:\users\yosra\desktop\ech\ech\ech\machine.cpp
+	"Machine.h"
+
+1493735908 c:\users\yosra\desktop\ech\ech\ech\machine.h
+	"Joueur.h"
+
+1493738273 source:c:\users\yosra\desktop\ech\ech\ech\main.cpp
+	<iostream>
+	"Deplacement.h"
+	"Echiquier.h"
+	"Piece.h"
+	"Joueur.h"
+	"partie.h"
+	"Case.h"
+
+1493732557 c:\users\yosra\desktop\ech\ech\ech\partie.h
+	"Joueur.h"
+	"Machine.h"
+	"Homme.h"
+	"Echiquier.h"
+	"Deplacement.h"
+	<windows.h>
+
+1493127959 source:c:\users\yosra\desktop\ech\ech\ech\moyen.cpp
+	"Moyen.h"
+
+1493383471 c:\users\yosra\desktop\ech\ech\ech\moyen.h
+	"Algorithme.h"
+
+1493737048 source:c:\users\yosra\desktop\ech\ech\ech\partie.cpp
+	"Partie.h"
+
+1493639591 source:c:\users\yosra\desktop\ech\ech\ech\piece.cpp
+	"Piece.h"
+
+1493729557 source:c:\users\yosra\desktop\ech\ech\ech\pion.cpp
+	"Pion.h"
+
+1493733824 source:c:\users\yosra\desktop\ech\ech\ech\position.cpp
+	"Position.h"
+
+1493702396 source:c:\users\yosra\desktop\ech\ech\ech\reine.cpp
+	"Reine.h"
+
+1493702396 source:c:\users\yosra\desktop\ech\ech\ech\roi.cpp
+	"Roi.h"
+
+1493702721 source:c:\users\yosra\desktop\ech\ech\ech\tour.cpp
+	"Tour.h"
+
+1493155762 source:c:\users\khayri\documents\mp\ech\ech\ech\algorithme.cpp
+
+1493728106 source:c:\users\khayri\documents\mp\ech\ech\ech\case.cpp
+	"Case.h"
+
+1493923343 c:\users\khayri\documents\mp\ech\ech\ech\case.h
+	"Piece.h"
+
+1494412231 c:\users\khayri\documents\mp\ech\ech\ech\position.h
+	<iostream>
+
+1494423045 c:\users\khayri\documents\mp\ech\ech\ech\piece.h
+	"Position.h"
+	"Deplacement.h"
+	<iostream>
+	<string>
+	<cmath>
+
+1494421021 source:c:\users\khayri\documents\mp\ech\ech\ech\cavalier.cpp
+	"Cavalier.h"
+	"Piece.h"
+
+1494321539 c:\users\khayri\documents\mp\ech\ech\ech\cavalier.h
+	<iostream>
+	"Piece.h"
+	"Echiquier.h"
+
+1494417199 source:c:\users\khayri\documents\mp\ech\ech\ech\deplacement.cpp
+	"Deplacement.h"
+
+1494416882 c:\users\khayri\documents\mp\ech\ech\ech\deplacement.h
+	<iostream>
+	<string>
+	"Position.h"
+
+1493884225 source:c:\users\khayri\documents\mp\ech\ech\ech\echiquier.cpp
+	"Echiquier.h"
+
+1494358487 c:\users\khayri\documents\mp\ech\ech\ech\echiquier.h
+	"Deplacement.h"
+	"Case.h"
+	<windows.h>
+
+1494321539 c:\users\khayri\documents\mp\ech\ech\ech\pion.h
+	"Piece.h"
+	"Echiquier.h"
+	<iostream>
+
+1494321548 c:\users\khayri\documents\mp\ech\ech\ech\tour.h
+	<iostream>
+	"Piece.h"
+	"Echiquier.h"
+
+1494321539 c:\users\khayri\documents\mp\ech\ech\ech\fou.h
+	<iostream>
+	"Piece.h"
+	"Echiquier.h"
+
+1494321539 c:\users\khayri\documents\mp\ech\ech\ech\roi.h
+	<iostream>
+	"Piece.h"
+	"Echiquier.h"
+
+1494321539 c:\users\khayri\documents\mp\ech\ech\ech\reine.h
+	<iostream>
+	"Piece.h"
+	"Echiquier.h"
+
+1493156759 source:c:\users\khayri\documents\mp\ech\ech\ech\facile.cpp
+	"Facile.h"
+
+1493411697 c:\users\khayri\documents\mp\ech\ech\ech\facile.h
+	"Algorithme.h"
+
+1493761075 c:\users\khayri\documents\mp\ech\ech\ech\algorithme.h
+
+1494421021 source:c:\users\khayri\documents\mp\ech\ech\ech\fou.cpp
+	"Fou.h"
+
+1493154601 source:c:\users\khayri\documents\mp\ech\ech\ech\historique.cpp
+	"Historique.h"
+
+1493154595 c:\users\khayri\documents\mp\ech\ech\ech\historique.h
+	"Deplacement.h"
+
+1494413925 source:c:\users\khayri\documents\mp\ech\ech\ech\homme.cpp
+	"Homme.h"
+
+1493980726 c:\users\khayri\documents\mp\ech\ech\ech\homme.h
+	"Joueur.h"
+
+1494421711 c:\users\khayri\documents\mp\ech\ech\ech\joueur.h
+	"Deplacement.h"
+	"Echiquier.h"
+	"Pion.h"
+	"Cavalier.h"
+	"Tour.h"
+	"Fou.h"
+	"Reine.h"
+	"Roi.h"
+	<iostream>
+
+1494422202 source:c:\users\khayri\documents\mp\ech\ech\ech\joueur.cpp
+	"Joueur.h"
+
+1494422481 source:c:\users\khayri\documents\mp\ech\ech\ech\machine.cpp
+	"Machine.h"
+
+1494413467 c:\users\khayri\documents\mp\ech\ech\ech\machine.h
+	"Joueur.h"
+
+1494425294 source:c:\users\khayri\documents\mp\ech\ech\ech\main.cpp
+	"Case.h"
+	"Deplacement.h"
+	"Echiquier.h"
+	"Piece.h"
+	"Pion.h"
+	"Cavalier.h"
+	"Joueur.h"
+	"partie.h"
+	"Machine_bete.h"
+	"Machine_intel.h"
+	"Machine_intelpp.h"
+	<iostream>
+	<time.h>
+	<vector>
+
+1494425321 c:\users\khayri\documents\mp\ech\ech\ech\partie.h
+	"Machine_bete.h"
+	"Machine_intel.h"
+	"Machine_intelpp.h"
+	"Homme.h"
+	"Echiquier.h"
+	"Deplacement.h"
+	<windows.h>
+	<vector>
+
+1493156759 source:c:\users\khayri\documents\mp\ech\ech\ech\moyen.cpp
+	"Moyen.h"
+
+1493412271 c:\users\khayri\documents\mp\ech\ech\ech\moyen.h
+	"Algorithme.h"
+
+1494425321 source:c:\users\khayri\documents\mp\ech\ech\ech\partie.cpp
+	"Partie.h"
+
+1494320908 source:c:\users\khayri\documents\mp\ech\ech\ech\piece.cpp
+	"Piece.h"
+
+1494421021 source:c:\users\khayri\documents\mp\ech\ech\ech\pion.cpp
+	"Pion.h"
+
+1494412212 source:c:\users\khayri\documents\mp\ech\ech\ech\position.cpp
+	"Position.h"
+
+1494421020 source:c:\users\khayri\documents\mp\ech\ech\ech\reine.cpp
+	"Reine.h"
+
+1494421020 source:c:\users\khayri\documents\mp\ech\ech\ech\roi.cpp
+	"Roi.h"
+
+1494421021 source:c:\users\khayri\documents\mp\ech\ech\ech\tour.cpp
+	"Tour.h"
+
+1494420448 source:c:\users\khayri\documents\mp\ech\ech\ech\machine_bete.cpp
+	"Machine_bete.h"
+
+1494413456 c:\users\khayri\documents\mp\ech\ech\ech\machine_bete.h
+	"Machine.h"
+	<ctime>
+
+1494420448 source:c:\users\khayri\documents\mp\ech\ech\ech\machine_intel.cpp
+	"Machine_intel.h"
+
+1494342138 c:\users\khayri\documents\mp\ech\ech\ech\machine_intel.h
+	"Machine.h"
+	<string>
+	<ctime>
+
+1494425143 source:c:\users\khayri\documents\mp\ech\ech\ech\machine_intelpp.cpp
+	"Machine_intelpp.h"
+
+1494424588 c:\users\khayri\documents\mp\ech\ech\ech\machine_intelpp.h
+	"Machine.h"
+	<ctime>
+	<vector>
+
